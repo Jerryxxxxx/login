@@ -20,9 +20,10 @@ Steplo is a sleek and modern Flutter application focused on providing a beautifu
 (Login, Sign Up, and Password Reset)
 
 <p float="left">
-  <img src="https://via.placeholder.com/200x400.png?text=Login+Screen" width="200" />
-  <img src="https://via.placeholder.com/200x400.png?text=Signup+Screen" width="200" />
-  <img src="https://via.placeholder.com/200x400.png?text=Forgot+Password" width="200" />
+  <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/6df4bf4a-b465-4669-b805-89ed2465ad6e" />
+ <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/84a709ba-f263-40a0-bf7a-8453bc768d12" />
+  <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/db9342d0-4b09-41c7-9150-88d45e030e04" />
+
 </p>
 
 ## 🛠 Tech Stack
