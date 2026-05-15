@@ -1,3 +1,4 @@
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-15 at 11 33 43" src="https://github.com/user-attachments/assets/f43ad47a-779c-46e8-9f04-a5bd27cbdd76" />
 # Steplo
 
 Steplo is a sleek and modern Flutter application focused on providing a beautiful authentication experience. It leverages **Material 3**, **Google Fonts**, and **Animate Do** to create a polished, animated user interface.
@@ -22,6 +23,7 @@ Steplo is a sleek and modern Flutter application focused on providing a beautifu
 <p float="left">
   <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/6df4bf4a-b465-4669-b805-89ed2465ad6e" />
  <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/84a709ba-f263-40a0-bf7a-8453bc768d12" />
+   <img width="589" height="1280" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-15 at 11 33 43" src="https://github.com/user-attachments/assets/f43ad47a-779c-46e8-9f04-a5bd27cbdd76" />
   <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/db9342d0-4b09-41c7-9150-88d45e030e04" />
 
 </p>
